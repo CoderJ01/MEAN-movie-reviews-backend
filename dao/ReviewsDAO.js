@@ -1,4 +1,4 @@
-import mongodb from 'mongoDB'; // get access to ObjectId
+import mongodb from 'mongodb'; // get access to ObjectId
 
 // model : Mongoose/MongoDB :: DAO : MongoDB (analogy)
 export default class ReviewsDAO {
